@@ -24,15 +24,13 @@ public class Solution {
             c2--;
 
             //traverse right to left
-            if (r1 <= r2)
-                for (int i = c2; i >= c1; i--)
-                    l.add(A[r2][i]);
+            for (int i = c2; i >= c1 && r1 <= r2; i--)
+                l.add(A[r2][i]);
             r2--;
 
             //traverse bottom to top
-            if (c1 <= c2)
-                for (int i = r2; i >= r1; i--)
-                    l.add(A[i][c1]);
+            for (int i = r2; i >= r1 && c1 <= c2; i--)
+                l.add(A[i][c1]);
             c1++;
         }
 
