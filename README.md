@@ -8,4 +8,5 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/SingleNumber.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PathSumII.java)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PathSum.java)|Easy|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](https://github.com/iSumitG/leetcode/blob/master/SpiralOrder.java)|Medium|
 
