@@ -4,6 +4,7 @@
 |---| ----- | -------- | ---------- |
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/iSumitG/leetcode/blob/master/GuessGame.java)|Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/iSumitG/leetcode/blob/master/NestedIterator.java)|Medium|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PowerOfTwo.java)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java v1](https://github.com/iSumitG/leetcode/blob/master/preorderTraversal_v1.java) <br> [Java v2](https://github.com/iSumitG/leetcode/blob/master/preorderTraversal_v2.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/SingleNumber.java)|Medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PalindromePartitioning.java)|Medium|
