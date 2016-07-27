@@ -3,6 +3,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/iSumitG/leetcode/blob/master/GuessGame.java)|Easy|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](https://github.com/iSumitG/leetcode/blob/master/ReverseVowels.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/iSumitG/leetcode/blob/master/ReverseString.java)|Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/iSumitG/leetcode/blob/master/NestedIterator.java)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/UglyNumber.java)|Easy|
