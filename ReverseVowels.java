@@ -2,7 +2,7 @@
 // Problem: https://leetcode.com/problems/reverse-vowels-of-a-string/
 // Author: Sumit Gupta
 
-public class Solution
+class Solution
 {
 	public boolean isVowel(char c)
 	{
