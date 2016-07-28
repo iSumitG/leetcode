@@ -7,6 +7,7 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/iSumitG/leetcode/blob/master/ReverseString.java)|Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/iSumitG/leetcode/blob/master/NestedIterator.java)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/UglyNumber.java)|Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LowestCommonAncestorBST.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PowerOfTwo.java)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java v1](https://github.com/iSumitG/leetcode/blob/master/preorderTraversal_v1.java) <br> [Java v2](https://github.com/iSumitG/leetcode/blob/master/preorderTraversal_v2.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/SingleNumber.java)|Medium|
