@@ -6,6 +6,7 @@
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](https://github.com/iSumitG/leetcode/blob/master/ReverseVowels.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/iSumitG/leetcode/blob/master/ReverseString.java)|Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/iSumitG/leetcode/blob/master/NestedIterator.java)|Medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LongestIncreasingSubsequence.java)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/UglyNumber.java)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LowestCommonAncestorBST.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PowerOfTwo.java)|Easy|
