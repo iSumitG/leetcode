@@ -20,4 +20,5 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java v1](https://github.com/iSumitG/leetcode/blob/master/UniquePaths_v1.java)<br>[Java v2](https://github.com/iSumitG/leetcode/blob/master/UniquePaths_v2.java)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](https://github.com/iSumitG/leetcode/blob/master/SpiralOrderII.java)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](https://github.com/iSumitG/leetcode/blob/master/SpiralOrder.java)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/iSumitG/leetcode/blob/master/TwoSum.java)|Easy|
 
