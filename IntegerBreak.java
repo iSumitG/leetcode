@@ -8,11 +8,11 @@ public class Solution {
         
         int pro = 1;
         while(n>4) {
-            n = n-3;
-            pro = pro*3;
+            n -= 3;
+            pro *= 3;
         }
         
-        pro = pro * n;
+        pro *= n;
         return pro;
     }
 }
