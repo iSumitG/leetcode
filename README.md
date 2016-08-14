@@ -5,6 +5,7 @@
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](https://github.com/iSumitG/leetcode/blob/master/GuessGame.java)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](https://github.com/iSumitG/leetcode/blob/master/ReverseVowels.java)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/iSumitG/leetcode/blob/master/ReverseString.java)|Easy|
+|343|[Integer Break](https://leetcode.com/problems/integer-break/) | [Java](https://github.com/iSumitG/leetcode/blob/master/IntegerBreak.java)|Medium|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/iSumitG/leetcode/blob/master/NestedIterator.java)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LongestIncreasingSubsequence.java)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/UglyNumber.java)|Easy|
