@@ -11,10 +11,8 @@ public class Solution {
         int[] bitval = new int[words.length];
         
         for(int i=0; i < words.length; i++)
-        {
             for(int j=0; j<words[i].length(); j++)
-                bitval[i] = bitval[i] | 1 << (words[i].charAt(j) - 'a');
-        }
+                bitval[i] |= 1 << (words[i].charAt(j) - 'a');
         
         int max = 0;
         for(int i=0; i<words.length; i++)
