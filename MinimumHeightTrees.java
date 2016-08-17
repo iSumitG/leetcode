@@ -1,3 +1,6 @@
+// Solution to 310. Minimum Height Trees
+// Problem: https://leetcode.com/problems/minimum-height-trees/
+// Author: Sumit Gupta
 
 public class Solution {
   public List<Integer> findMinHeightTrees(int n, int[][] edges) {
