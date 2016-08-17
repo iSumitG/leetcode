@@ -4,18 +4,15 @@ public class Solution {
 		if (n == 1)
 			return Collections.singletonList(0);
 
-		HashMap<Integer, Set<Integer>> hm = new HashMap<Integer, Set<Integer>>();
+		Map<Integer, Set<Integer>> hm = new HashMap<Integer, Set<Integer>>();
 
-		for (int i = 0; i < n; i++) {
+		for (int i = 0; i < n; i++)
 			hm.put(i, new HashSet<Integer>());
-		}
 
 		for (int[] edge : edges) {
 			hm.get(edge[0]).add(edge[1]);
 			hm.get(edge[1]).add(edge[0]);
 		}
-
-		//System.out.println(hm);
 
 		while (hm.size() > 2) {
 			List<Integer> leaves = new ArrayList<Integer>();
@@ -25,25 +22,18 @@ public class Solution {
 				int key = entry.getKey();
 				Set<Integer> valueSet = entry.getValue();
 
-				if (valueSet.size() == 1) {
+				if (valueSet.size() == 1)
 					leaves.add(key);
-				}
 			}
-
-			//System.out.println(leaves);
 
 			for (int val : leaves) {
 				hm.get(hm.get(val).iterator().next()).remove(val);
 				hm.remove(val);
 			}
-
 		}
 
-		//System.out.println("After: " + hm.keySet());
 		List<Integer> finalAns = new ArrayList<Integer>();
 		finalAns.addAll(hm.keySet());
-
-		//System.out.println(finalAns);
 
 		return finalAns;
 	}
