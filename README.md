@@ -9,6 +9,7 @@
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](https://github.com/iSumitG/leetcode/blob/master/NestedIterator.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/iSumitG/leetcode/blob/master/CountingBits.java)|Medium|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Java](https://github.com/iSumitG/leetcode/blob/master/MaximumProductOfWordLengths.java)|Medium|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Java](https://github.com/iSumitG/leetcode/blob/master/MinimumHeightTrees.java)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LongestIncreasingSubsequence.java)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/UglyNumber.java)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LowestCommonAncestorBST.java)|Easy|
