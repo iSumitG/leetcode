@@ -11,6 +11,7 @@
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Java](https://github.com/iSumitG/leetcode/blob/master/MaximumProductOfWordLengths.java)|Medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Java](https://github.com/iSumitG/leetcode/blob/master/MinimumHeightTrees.java)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LongestIncreasingSubsequence.java)|Medium|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](https://github.com/iSumitG/leetcode/blob/master/WordPattern.java)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/UglyNumber.java)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LowestCommonAncestorBST.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PowerOfTwo.java)|Easy|
