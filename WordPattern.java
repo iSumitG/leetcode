@@ -15,26 +15,20 @@ public class Solution {
         
         Map<Character, String> hm = new HashMap<Character, String>();
         
-        for(int i=0; i<pattern.length(); i++)
-        {
+        for(int i=0; i<pattern.length(); i++) {
             char c = pattern.charAt(i);
-            if(hm.containsKey(c))
-            {
-                String word = hm.get(c);
-                if(!word.equals(strArray[i])) return false;
-            }
-            else
-            {
-                if(hm.containsValue(strArray[i]))
-                {
+            if(hm.containsKey(c)) {
+                if(!hm.get(c).equals(strArray[i]))
                     return false;
-                }
+            }
+            else {
+                if(hm.containsValue(strArray[i]))
+                    return false;
                 hm.put(c, strArray[i]);
             }
         }
         
         return true;
-        
     }
 }
 
