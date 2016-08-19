@@ -5,13 +5,15 @@
 public class Solution {
     public boolean wordPattern(String pattern, String str) {
         
-        if(pattern == null || str == null) return false;
+        if(pattern == null || str == null)
+            return false;
         
         String[] strArray = str.split(" ");
         
-        if(pattern.length() != strArray.length) return false;
+        if(pattern.length() != strArray.length)
+            return false;
         
-        HashMap<Character, String> hm = new HashMap<Character, String>();
+        Map<Character, String> hm = new HashMap<Character, String>();
         
         for(int i=0; i<pattern.length(); i++)
         {
