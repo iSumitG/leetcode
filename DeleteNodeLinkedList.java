@@ -16,13 +16,13 @@ public class Solution {
         if(node == null)
             return;
         
-        ListNode p = node;
-        while(p.next != null) {
-            p.val = p.next.val;
-            if(p.next.next == null)
-                p.next = null;
+        ListNode present = node;
+        while(present.next != null) {
+            present.val = present.next.val;
+            if(present.next.next == null)
+                present.next = null;
             else
-                p = p.next;
+                present = present.next;
         }
     }
 }
