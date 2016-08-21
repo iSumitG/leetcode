@@ -14,6 +14,7 @@
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](https://github.com/iSumitG/leetcode/blob/master/WordPattern.java)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](https://github.com/iSumitG/leetcode/blob/master/FirstBadVersion.java)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/UglyNumber.java)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](https://github.com/iSumitG/leetcode/blob/master/DeleteNodeLinkedList.java)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LowestCommonAncestorBST.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PowerOfTwo.java)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java v1](https://github.com/iSumitG/leetcode/blob/master/preorderTraversal_v1.java) <br> [Java v2](https://github.com/iSumitG/leetcode/blob/master/preorderTraversal_v2.java)|Medium|
