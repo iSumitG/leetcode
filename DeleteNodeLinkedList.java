@@ -17,13 +17,10 @@ public class Solution {
         
         ListNode p = node;
         
-        while(p.next != null)
-        {
+        while(p.next != null) {
             p.val = p.next.val;
             if(p.next.next == null)
-            {
                 p.next = null;
-            }
             else
                 p = p.next;
         }
