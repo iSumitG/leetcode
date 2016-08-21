@@ -13,10 +13,10 @@
 public class Solution {
     public void deleteNode(ListNode node) {
         
-        if(node == null) return;
+        if(node == null)
+            return;
         
         ListNode p = node;
-        
         while(p.next != null) {
             p.val = p.next.val;
             if(p.next.next == null)
