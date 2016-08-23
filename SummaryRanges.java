@@ -1,56 +1,37 @@
-// Solution to 231. Power of Two
-// Problem: https://leetcode.com/problems/power-of-two/
+// Solution to 228. Summary Ranges
+// Problem: https://leetcode.com/problems/summary-ranges/
 // Author: Sumit Gupta
 
 public class Solution {
     public List<String> summaryRanges(int[] nums)
     {
-        ArrayList<String> a = new ArrayList<String>();
+        List<String> a = new ArrayList<String>();
         
-        //Set<Integer> ts = TreeSet<Integer>();
-        if(nums.length == 0) return a;
-        if(nums.length == 1)
-        {
+        if(nums.length == 0)
+            return a;
+        
+        if(nums.length == 1) {
             a.add(Integer.toString(nums[0]));
             return a;
         }
         
-        int start = 0;
-        int end = 1;
-        while(end<nums.length)
-        {
-            if((nums[end] - nums[end-1]) != 1)
-            {
+        int start = 0, end = 1;
+        while(end < nums.length) {
+            if((nums[end] - nums[end-1]) != 1) {
                 if(nums[start] == nums[end-1])
-                {
                     a.add(Integer.toString(nums[start]));
-                }
                 else
-                {
-                    String s = nums[start] + "->" + nums[end-1];
-                    a.add(s);
-                }
-                
-                start=end;
-                end++;
+                    a.add(nums[start] + "->" + nums[end-1]);
+                start = end;
             }
-            else
-            {
-                end++;
-            }
+            end++;
         }
         
         if(nums[start] == nums[end-1])
-        {
              a.add(Integer.toString(nums[start]));
-        }
         else
-        {
-            String s = nums[start] + "->" + nums[end-1];
-            a.add(s);
-        }
+            a.add(nums[start] + "->" + nums[end-1]);
         
         return a;
-        
     }
 }
