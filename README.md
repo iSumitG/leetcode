@@ -18,7 +18,7 @@
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](https://github.com/iSumitG/leetcode/blob/master/LowestCommonAncestorBST.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](https://github.com/iSumitG/leetcode/blob/master/PowerOfTwo.java)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Java](https://github.com/iSumitG/leetcode/blob/master/SummaryRanges.java)|Medium|
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](https://github.com/iSumitG/leetcode/blob/master/InvertBinaryTree_v1.java)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java v1](https://github.com/iSumitG/leetcode/blob/master/InvertBinaryTree_v1.java) <br> [Java v2](https://github.com/iSumitG/leetcode/blob/master/InvertBinaryTree_v2.java)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Java](https://github.com/iSumitG/leetcode/blob/master/HouseRobber.java)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java v1](https://github.com/iSumitG/leetcode/blob/master/preorderTraversal_v1.java) <br> [Java v2](https://github.com/iSumitG/leetcode/blob/master/preorderTraversal_v2.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/iSumitG/leetcode/blob/master/SingleNumber.java)|Medium|
