@@ -15,8 +15,7 @@ public class Solution {
 				a[1] = hm.get(array[i]);
 				return a;
 			}
-			else
-				hm.put((target - array[i]),i);
+			hm.put((target - array[i]),i);
 		}
 		
 		return a;
